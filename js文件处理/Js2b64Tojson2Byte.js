@@ -114,14 +114,14 @@ function endJson(path){
         var deflate = new zlib.Zlib.Deflate(unit8Array);
         var compressed = deflate.compress();
         let str = JSON.stringify(common.Uint8ArrayToString(compressed))
-        fs.writeFile(new_path,str,(err)=>{
-            console.log("输出文件------"+new_path)
-            if(err){console.log(err)}
-        })
-        // fs.writeFile(new_path,"data="+str,(err)=>{
+        // fs.writeFile(new_path,str,(err)=>{
         //     console.log("输出文件------"+new_path)
         //     if(err){console.log(err)}
         // })
+        fs.writeFile(new_path,"data="+str,(err)=>{
+            console.log("输出文件------"+new_path)
+            if(err){console.log(err)}
+        })
     }else{
         fs.writeFile(new_path,"data="+jsonStr,(err)=>{
             console.log("输出文件------"+new_path)

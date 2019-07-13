@@ -1,0 +1,19 @@
+#!/usr/bin/expect
+
+set TARGET [lindex $argv 0]
+set USER [lindex $argv 1]
+set PASSWD [lindex $argv 2]
+set FILE_PATH [lindex $argv 3]
+set TARGET_PATH [lindex $argv 4]
+
+set timeout -1
+
+spawn scp -r $FILE_PATH $USER@$TARGET:$TARGET_PATH
+
+expect "password:"
+
+send "$PASSWD\r"
+
+
+expect eof
+

@@ -1,0 +1,28 @@
+{
+    "r":{
+       "rule":0,
+       "ruleValue":0,
+       "fileNames":[
+
+       ],
+       "ids":{
+
+       },
+       "path":"resource/res/body/"
+    },
+    "g":{
+        "levelMonId":[
+
+        ],
+        "fileNames":[],
+       "path":"resource/res/monster/"
+    },
+    "m":{
+        "block":{
+            "map001":{"row":11,"col":16},
+            "map002":{"row":7,"col":15},
+            "map003":{"row":9,"col":17}
+        },
+        "path":"resource/map/"
+    }
+}

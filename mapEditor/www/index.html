@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/styles/main.css" type="text/css">
+</head>
+<body>
+    
+    <form id="imgForm">
+        <input type="file" id="file_input" >
+    </form>
+    <div id="buttons">
+        <a class="button_up" id="button" onclick="createCfg()">配置</a>
+        <a class="button_up" id="button" onclick="createGrid()">生成格子区域</a>
+        <a class="button_up" id="button" onclick="setPoint0()">阻挡点</a>
+        <a class="button_up" id="button" onclick="setPoint1()">透明区域</a>
+        <a class="button_up" id="button" onclick="clearPoint()">清除</a>
+        <a class="button_up" id="button" onclick="reverseData()">数据翻转</a>
+        <a class="button_up" id="button" onclick="exportData()">导出配置</a>
+        <a class="button_up" id="button" onclick="exportSlice()">导出切片</a>
+    </div>
+   
+    <div id="result">
+    </div>
+    <div class="configDialog hide">
+        <span>生成表格配置</span>
+        <ul>
+            <li>
+                格子x轴键值：
+                <input id="gridXkey">
+            </li>
+            <li>
+                格子宽：
+                <input id="gridXvalue">
+            </li>
+            <li>
+                格子y轴键值：
+                <input id="gridYkey">
+            </li>
+            <li>
+                格子高：
+                <input id="gridYvalue">
+            </li>
+
+            <li>
+                切片x轴键值：
+                <input id="splitXkey">
+            </li>
+            <li>
+                切片宽：
+                <input id="splitXvalue">
+            </li>
+            <li>
+                切片y轴键值：
+                <input id="splitYkey">
+            </li>
+            <li>
+                切片高：
+                <input id="splitYvalue">
+            </li>
+            <li>
+                地图img宽度键值：
+                <input id="mapWkey">
+            </li>
+            <li>
+                地图img高度键值：
+                <input id="mapHkey">
+            </li>
+            <li>
+                格子数据集合键值：
+                <input id="gridsKey">
+            </li>
+            <li>
+                行键值：
+                <input id="rowKey">
+            </li>
+            <li>
+                列键值：
+                <input id="colKey">
+            </li>
+            <li>
+                阻挡点-可行走-透明点：
+                <input id="pointValue">
+            </li>
+            <li>
+                自定义固定属性(json 可选)：
+                <textarea id="comAttr"></textarea>
+            </li>
+            <li>
+                导出格式：
+                <select id="selectOpt">
+                    <option value ="json">Json</option>
+                    <option value ="xml">xml</option>
+                </select>
+            </li>
+            <li>
+                导出配置标准(以行或列为标准)：
+                <select id="selectOpt2">
+                    <option value ="col">列col</option>
+                    <option value ="row">行row</option>
+                </select>
+            </li>
+            <li>
+                地图切片标准：
+                <select id="selectOpt3">
+                    <option value ="x_y">0_1:x_y</option>
+                    <option value ="y_x">0_1:y_x</option>
+                </select>
+            </li>
+            <br/>
+            <li>
+                <a class="button_up" onclick="sureClick()">确定</a>
+            </li>
+        </ul>
+    </div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/scripts/main.js"></script>
+</body>
+</html>

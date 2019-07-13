@@ -1,0 +1,180 @@
+{"frames": {
+
+"1":
+{
+	"frame": {"x":772,"y":995,"w":639,"h":606},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":639,"h":606},
+	"sourceSize": {"w":639,"h":606}
+},
+"2":
+{
+	"frame": {"x":772,"y":737,"w":768,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":768,"h":256},
+	"sourceSize": {"w":768,"h":256}
+},
+"3":
+{
+	"frame": {"x":772,"y":2,"w":768,"h":733},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":768,"h":733},
+	"sourceSize": {"w":768,"h":733}
+},
+"block1":
+{
+	"frame": {"x":1413,"y":1212,"w":80,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":83},
+	"sourceSize": {"w":80,"h":83}
+},
+"block2":
+{
+	"frame": {"x":1542,"y":682,"w":80,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":83},
+	"sourceSize": {"w":80,"h":83}
+},
+"block3":
+{
+	"frame": {"x":1542,"y":597,"w":80,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":83},
+	"sourceSize": {"w":80,"h":83}
+},
+"block4":
+{
+	"frame": {"x":1542,"y":512,"w":80,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":83},
+	"sourceSize": {"w":80,"h":83}
+},
+"block5":
+{
+	"frame": {"x":1542,"y":427,"w":80,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":83},
+	"sourceSize": {"w":80,"h":83}
+},
+"block_hover1":
+{
+	"frame": {"x":1542,"y":342,"w":80,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":83},
+	"sourceSize": {"w":80,"h":83}
+},
+"block_hover2":
+{
+	"frame": {"x":1542,"y":257,"w":80,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":83},
+	"sourceSize": {"w":80,"h":83}
+},
+"block_hover3":
+{
+	"frame": {"x":1542,"y":172,"w":80,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":83},
+	"sourceSize": {"w":80,"h":83}
+},
+"block_hover4":
+{
+	"frame": {"x":1542,"y":87,"w":80,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":83},
+	"sourceSize": {"w":80,"h":83}
+},
+"block_hover5":
+{
+	"frame": {"x":1542,"y":2,"w":80,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":83},
+	"sourceSize": {"w":80,"h":83}
+},
+"effect/1":
+{
+	"frame": {"x":1539,"y":1212,"w":40,"h":225},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":225},
+	"sourceSize": {"w":40,"h":225}
+},
+"effect/2":
+{
+	"frame": {"x":1497,"y":1212,"w":40,"h":225},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":225},
+	"sourceSize": {"w":40,"h":225}
+},
+"effect/3":
+{
+	"frame": {"x":1455,"y":1297,"w":40,"h":225},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":225},
+	"sourceSize": {"w":40,"h":225}
+},
+"effect/4":
+{
+	"frame": {"x":1413,"y":1297,"w":40,"h":225},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":225},
+	"sourceSize": {"w":40,"h":225}
+},
+"effect/5":
+{
+	"frame": {"x":1542,"y":767,"w":40,"h":225},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":225},
+	"sourceSize": {"w":40,"h":225}
+},
+"hand":
+{
+	"frame": {"x":1413,"y":995,"w":210,"h":215},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":215},
+	"sourceSize": {"w":210,"h":215}
+},
+"info":
+{
+	"frame": {"x":2,"y":908,"w":768,"h":654},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":768,"h":654},
+	"sourceSize": {"w":768,"h":654}
+},
+"skill-info":
+{
+	"frame": {"x":2,"y":2,"w":768,"h":904},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":768,"h":904},
+	"sourceSize": {"w":768,"h":904}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "grid.png",
+	"format": "RGBA8888",
+	"size": {"w":1625,"h":1603},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5b27987f40f240214cbd3b0fc5c15a2f:1/1$"
+}
+}

@@ -1,0 +1,27 @@
+{
+  "name": "doLang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "limit": "node -max_old_space_size=4096",
+    "do": "node doFile.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://admin@192.168.1.164/volume1/git/doLang.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bagpipe": "^0.3.5",
+    "cli-table2": "^0.2.0",
+    "glob": "^7.1.3",
+    "jszip": "^3.2.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "single-line-log": ""
+  }
+}

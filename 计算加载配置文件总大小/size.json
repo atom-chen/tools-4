@@ -1,0 +1,21 @@
+{
+    "scenelist_auto.json": 0.2294921875,
+    "preloadlist.json": 0.3466796875,
+    "data.json": 26987.861328125,
+    "bag_uicfg.json": 3.865234375,
+    "login_uicfg.json": 9.8349609375,
+    "role_uicfg.json": 55.44921875,
+    "ui_effect_900.json": 0.8466796875,
+    "ui_effect_900.png": 120.43359375,
+    "battle.json": 2.8310546875,
+    "battle.png": 77.78515625,
+    "common.json": 27.57421875,
+    "common.png": 1790.4306640625,
+    "guide.json": 0.2060546875,
+    "guide.png": 3.349609375,
+    "login.json": 3.142578125,
+    "login.png": 333.3447265625,
+    "mainui.json": 12.263671875,
+    "mainui.png": 1206.849609375,
+    "loading_bg.jpg": 87.3662109375
+}

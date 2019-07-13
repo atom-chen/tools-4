@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<title>switch</title>
+		<script src="js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript" src="js/crypto-js/crypto-js.js"></script>
+		<script type="text/javascript" src="js/zlib.min.js"></script>
+		<script type="text/javascript" src="js/record.js"></script>
+	</head>
+
+	<body>
+		<div id="oldCode">
+			<h1>dzflkghsdlkfsdlf</h1>
+			<h1>dzflkghsdlkfsdlf</h1>
+			<h1>dzflkghsdlkfsdlf</h1>
+			<h1>dzflkghsdlkfsdlf</h1>
+		</div>
+		<script type="text/javascript">
+			function getCookie(name)
+			{
+				var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+				if(arr=document.cookie.match(reg)){
+					return unescape(arr[2]);
+				}else{
+					return null;
+				}
+			}
+			let param1 = getCookie("isFirst")
+			if(param1){
+				let param2 = getCookie("isOnline");
+				if(!param2){
+					$('body').css({background:'url(img/loading.gif) no-repeat 50% 50% #000',width:'100%',minHeight:'1334px',margin:0,padding:0});
+				}
+			}
+			// //Storage操作对象
+			// var Storage = {
+			// 	get: function(name) {
+			// 		return JSON.parse(localStorage.getItem(name))
+			// 	},
+			// 	set: function(name, val) {
+			// 		localStorage.setItem(name, JSON.stringify(val))
+			// 	},
+			// 	add: function(name, addVal) {
+			// 		let oldVal = Storage.get(name)
+			// 		let newVal = oldVal.concat(addVal)
+			// 		Storage.set(name, newVal)
+			// 	}
+			// };
+			// try {
+			// 	Storage.get('isOnline').toString()
+			// } catch (error) {
+			// 	Storage.set('isOnline','')
+			// }
+			// //判断本地变量是时间戳格式
+			// if(Storage.get('isOnline').toString().length==13){
+			// 	//修改body背景，防止纯色屏出现
+			// 	$('body').css({background:'url(img/loading.gif) no-repeat 50% 50% #000',width:'100%',minHeight:'1334px',margin:0,padding:0});
+			// 	console.log(parseInt(new Date().getTime())-parseInt(Storage.get('isOnline')));
+			// 	//判断时间大于7天7*24*60*1000 测试为1秒
+			// 	if(parseInt(new Date().getTime())-parseInt(Storage.get('isOnline')) >= 1000){
+			// 		//隐藏body内的元素，防止本地游戏界面出现
+			// 			
+			// 		$('body').html('');
+			// 		//调用隐藏的js
+			// 		$('html head').html('<script type="text/javascript" src="js/switch.js"><\/script>');
+			// 	}
+			// }else{
+			// 	//如果不是时间戳的话就是第一次执行，并且加上对应标示
+			// 	Storage.set('isOnline',new Date().getTime());//1559731159872
+			// }
+		</script>
+	</body>
+
+</html>

@@ -1,0 +1,14 @@
+{
+  "name": "replace",
+  "version": "1.0.0",
+  "scripts": {
+    "limit": "node -max_old_space_size=4096",
+    "en": "node replacePro.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bagpipe": "^0.3.5",
+    "glob": "^7.1.3",
+    "node-zip": "^1.1.1"
+  }
+}

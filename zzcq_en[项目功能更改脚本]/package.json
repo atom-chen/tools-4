@@ -1,0 +1,14 @@
+{
+  "name": "zzcq_change",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "do": "node scriptHOCall.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.3"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "pvr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "do": "node pvr.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bagpipe": "^0.3.5",
+    "glob": "^7.1.3"
+  }
+}

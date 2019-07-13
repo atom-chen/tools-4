@@ -1,0 +1,2994 @@
+{
+    "preloaderbackground-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                1024,
+                768
+            ]
+        ]
+    },
+    "preloaderloading-sheet0.png": {
+        "frames": [
+            [
+                1,
+                1,
+                181,
+                41
+            ],
+            [
+                1,
+                44,
+                181,
+                41
+            ],
+            [
+                1,
+                87,
+                181,
+                41
+            ]
+        ]
+    },
+    "buttonspecialattackbackground1-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                84,
+                84
+            ]
+        ]
+    },
+    "buttonspecialattackbackground2-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                84,
+                84
+            ]
+        ]
+    },
+    "buttonspecialattackbackground3-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                84,
+                84
+            ]
+        ]
+    },
+    "buttonupgradehero-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                87,
+                86
+            ]
+        ]
+    },
+    "buttonupgradehero-sheet1.png": {
+        "frames": [
+            [
+                0,
+                0,
+                87,
+                86
+            ]
+        ]
+    },
+    "buttonupgradeturret-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                87,
+                86
+            ]
+        ]
+    },
+    "buttonupgradeturret-sheet1.png": {
+        "frames": [
+            [
+                0,
+                0,
+                87,
+                86
+            ]
+        ]
+    },
+    "buttongoldshop-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                87,
+                86
+            ]
+        ]
+    },
+    "buttongoldshop-sheet1.png": {
+        "frames": [
+            [
+                0,
+                0,
+                87,
+                86
+            ]
+        ]
+    },
+    "buttonbackmainmenu-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                86,
+                43
+            ]
+        ]
+    },
+    "buttonnextstage-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                169,
+                55
+            ]
+        ]
+    },
+    "buttonupgradeherolevel-sheet0.png": {
+        "frames": [
+            [
+                1,
+                1,
+                94,
+                41
+            ],
+            [
+                1,
+                44,
+                94,
+                41
+            ],
+            [
+                1,
+                1,
+                94,
+                41
+            ],
+            [
+                1,
+                44,
+                94,
+                41
+            ]
+        ]
+    },
+    "buttongoldbuy-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                87,
+                43
+            ]
+        ]
+    },
+    "buttonprev-sheet0.png": {
+        "frames": [
+            [
+                1,
+                1,
+                40,
+                66
+            ],
+            [
+                43,
+                1,
+                40,
+                66
+            ]
+        ]
+    },
+    "buttonnext-sheet0.png": {
+        "frames": [
+            [
+                1,
+                1,
+                40,
+                66
+            ],
+            [
+                43,
+                1,
+                40,
+                66
+            ]
+        ]
+    },
+    "buttonplay-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                76,
+                88
+            ]
+        ]
+    },
+    "buttonmoregames-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                58,
+                58
+            ]
+        ]
+    },
+    "buttonhome-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                58,
+                58
+            ]
+        ]
+    },
+    "buttonretry-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                58,
+                58
+            ]
+        ]
+    },
+    "buttonkiz10-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                199,
+                41
+            ]
+        ]
+    },
+    "buttonwalkthrough-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                58,
+                58
+            ]
+        ]
+    },
+    "buttongoogleplay-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                215,
+                69
+            ]
+        ]
+    },
+    "buttonaddtoyoursite-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                188,
+                40
+            ]
+        ]
+    },
+    "buttonresetdata-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                188,
+                40
+            ]
+        ]
+    },
+    "buttonmore-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                189,
+                59
+            ]
+        ]
+    },
+    "buttonmusic-sheet0.png": {
+        "frames": [
+            [
+                1,
+                1,
+                98,
+                47
+            ],
+            [
+                1,
+                50,
+                98,
+                47
+            ]
+        ]
+    },
+    "buttonsound-sheet0.png": {
+        "frames": [
+            [
+                1,
+                1,
+                98,
+                47
+            ],
+            [
+                1,
+                50,
+                98,
+                47
+            ]
+        ]
+    },
+    "buttonresume-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                63,
+                64
+            ]
+        ]
+    },
+    "buttonoption-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                57,
+                58
+            ]
+        ]
+    },
+    "buttonno-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                86,
+                43
+            ]
+        ]
+    },
+    "buttonyes-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                86,
+                43
+            ]
+        ]
+    },
+    "mainmenutitle-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                400,
+                144
+            ],
+            [
+                0,
+                0,
+                400,
+                144
+            ]
+        ]
+    },
+    "mainmenutitlenova-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                215,
+                99
+            ]
+        ]
+    },
+    "mainmenutitledefender-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                332,
+                74
+            ]
+        ]
+    },
+    "mainmenutitlewingleft-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                150,
+                80
+            ],
+            [
+                0,
+                0,
+                150,
+                80
+            ]
+        ]
+    },
+    "mainmenutitlewingright-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                150,
+                80
+            ],
+            [
+                0,
+                0,
+                150,
+                80
+            ]
+        ]
+    },
+    "mainmenuwave-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                161,
+                160
+            ]
+        ]
+    },
+    "mainmenuresetdatacontent-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                279,
+                98
+            ]
+        ]
+    },
+    "mainmenuresetdataframe-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                370,
+                237
+            ]
+        ]
+    },
+    "border1-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                128,
+                64
+            ]
+        ]
+    },
+    "border2-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                128,
+                64
+            ]
+        ]
+    },
+    "flash-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                10,
+                10
+            ]
+        ]
+    },
+    "objectposition-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                10,
+                10
+            ]
+        ]
+    },
+    "center-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                10,
+                10
+            ],
+            [
+                0,
+                0,
+                10,
+                10
+            ]
+        ]
+    },
+    "menuoverlay-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                10,
+                10
+            ]
+        ]
+    },
+    "gatetop-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                1022,
+                390
+            ]
+        ]
+    },
+    "gatebottom-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                1023,
+                390
+            ]
+        ]
+    },
+    "gatetopnova-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                602,
+                134
+            ]
+        ]
+    },
+    "gatebottomdefender-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                500,
+                113
+            ]
+        ]
+    },
+    "flashwalldestroy-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                10,
+                10
+            ]
+        ]
+    },
+    "optionframe-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                280,
+                225
+            ]
+        ]
+    },
+    "resultframewin-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                361,
+                251
+            ]
+        ]
+    },
+    "resultframelose-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                361,
+                257
+            ]
+        ]
+    },
+    "resultlight-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                359,
+                359
+            ]
+        ]
+    },
+    "resulttextreward-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                73,
+                25
+            ]
+        ]
+    },
+    "resulttextkillbonus-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                92,
+                24
+            ]
+        ]
+    },
+    "resulttexttotal-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                63,
+                24
+            ]
+        ]
+    },
+    "resultgold-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                29,
+                29
+            ]
+        ]
+    },
+    "backgroundgame-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                1023,
+                771
+            ]
+        ]
+    },
+    "street-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                1025,
+                490
+            ]
+        ]
+    },
+    "wall-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                256,
+                408
+            ]
+        ]
+    },
+    "framebackground-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                1018,
+                72
+            ]
+        ]
+    },
+    "key1-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                50,
+                50
+            ]
+        ]
+    },
+    "key2-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                50,
+                50
+            ]
+        ]
+    },
+    "key3-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                50,
+                50
+            ]
+        ]
+    },
+    "barbossbackground-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                470,
+                29
+            ]
+        ]
+    },
+    "barwallbackground-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                378,
+                49
+            ]
+        ]
+    },
+    "barboss-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                407,
+                11
+            ]
+        ]
+    },
+    "barwall-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                308,
+                34
+            ]
+        ]
+    },
+    "barspecialattack-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                57,
+                8
+            ]
+        ]
+    },
+    "pointgold-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                168,
+                45
+            ]
+        ]
+    },
+    "pointstage-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                152,
+                41
+            ]
+        ]
+    },
+    "enemyboss-sheet0.png": {
+        "frames": [
+            [
+                687,
+                518,
+                292,
+                272
+            ],
+            [
+                1,
+                572,
+                293,
+                267
+            ],
+            [
+                394,
+                254,
+                291,
+                297
+            ],
+            [
+                1,
+                1,
+                391,
+                316
+            ],
+            [
+                394,
+                1,
+                368,
+                251
+            ],
+            [
+                1,
+                319,
+                339,
+                251
+            ],
+            [
+                687,
+                254,
+                312,
+                262
+            ],
+            [
+                687,
+                254,
+                312,
+                262
+            ],
+            [
+                342,
+                553,
+                278,
+                282
+            ],
+            [
+                687,
+                254,
+                312,
+                262
+            ]
+        ]
+    },
+    "enemyboss-sheet1.png": {
+        "frames": [
+            [
+                1,
+                1,
+                294,
+                265
+            ],
+            [
+                265,
+                272,
+                288,
+                257
+            ],
+            [
+                297,
+                1,
+                284,
+                269
+            ],
+            [
+                583,
+                1,
+                284,
+                269
+            ],
+            [
+                1,
+                268,
+                262,
+                289
+            ]
+        ]
+    },
+    "enemybosscollision-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                292,
+                272
+            ]
+        ]
+    },
+    "enemybosspoison-sheet0.png": {
+        "frames": [
+            [
+                1,
+                1,
+                61,
+                62
+            ],
+            [
+                64,
+                1,
+                61,
+                62
+            ],
+            [
+                1,
+                65,
+                61,
+                62
+            ],
+            [
+                64,
+                65,
+                61,
+                62
+            ]
+        ]
+    },
+    "enemybosspoison-sheet1.png": {
+        "frames": [
+            [
+                1,
+                1,
+                61,
+                62
+            ],
+            [
+                64,
+                1,
+                61,
+                62
+            ],
+            [
+                1,
+                65,
+                61,
+                62
+            ],
+            [
+                64,
+                65,
+                61,
+                62
+            ]
+        ]
+    },
+    "enemybosspoison-sheet2.png": {
+        "frames": [
+            [
+                1,
+                1,
+                61,
+                62
+            ],
+            [
+                64,
+                1,
+                61,
+                62
+            ]
+        ]
+    },
+    "enemybosspoisoncollision-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                61,
+                62
+            ]
+        ]
+    },
+    "enemyinfecman-sheet2.png": {
+        "frames": [
+            [
+                121,
+                1,
+                103,
+                119
+            ],
+            [
+                1,
+                1,
+                118,
+                117
+            ]
+        ]
+    },
+    "enemyinfecman-sheet1.png": {
+        "frames": [
+            [
+                131,
+                120,
+                118,
+                117
+            ],
+            [
+                1,
+                120,
+                128,
+                116
+            ],
+            [
+                1,
+                1,
+                135,
+                117
+            ],
+            [
+                138,
+                1,
+                108,
+                117
+            ]
+        ]
+    },
+    "enemyinfecman-sheet0.png": {
+        "frames": [
+            [
+                1,
+                127,
+                160,
+                114
+            ],
+            [
+                1,
+                1,
+                156,
+                124
+            ]
+        ]
+    },
+    "enemyinfecmancollision-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                103,
+                119
+            ]
+        ]
+    },
+    "enemykingbat-sheet0.png": {
+        "frames": [
+            [
+                303,
+                1,
+                139,
+                127
+            ],
+            [
+                1,
+                1,
+                149,
+                120
+            ],
+            [
+                277,
+                130,
+                129,
+                118
+            ],
+            [
+                408,
+                130,
+                85,
+                123
+            ],
+            [
+                1,
+                123,
+                139,
+                127
+            ],
+            [
+                152,
+                1,
+                149,
+                120
+            ],
+            [
+                142,
+                248,
+                129,
+                116
+            ],
+            [
+                142,
+                123,
+                133,
+                123
+            ]
+        ]
+    },
+    "enemykingbatpoison-sheet0.png": {
+        "frames": [
+            [
+                1,
+                1,
+                70,
+                51
+            ],
+            [
+                73,
+                1,
+                70,
+                51
+            ],
+            [
+                145,
+                1,
+                70,
+                51
+            ],
+            [
+                1,
+                54,
+                70,
+                51
+            ],
+            [
+                73,
+                54,
+                70,
+                51
+            ],
+            [
+                145,
+                54,
+                70,
+                51
+            ],
+            [
+                1,
+                107,
+                70,
+                51
+            ]
+        ]
+    },
+    "enemykingbatcollision-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                85,
+                123
+            ]
+        ]
+    },
+    "enemykingbatpoisoncollision-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                70,
+                51
+            ]
+        ]
+    },
+    "enemykingbatshadow-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                54,
+                18
+            ]
+        ]
+    },
+    "enemyspiderbomb-sheet0.png": {
+        "frames": [
+            [
+                1,
+                98,
+                56,
+                40
+            ],
+            [
+                1,
+                140,
+                56,
+                40
+            ],
+            [
+                184,
+                146,
+                56,
+                40
+            ],
+            [
+                59,
+                169,
+                56,
+                40
+            ],
+            [
+                184,
+                87,
+                56,
+                57
+            ],
+            [
+                104,
+                87,
+                78,
+                80
+            ],
+            [
+                1,
+                1,
+                101,
+                95
+            ],
+            [
+                104,
+                1,
+                109,
+                84
+            ]
+        ]
+    },
+    "enemyspiderbombcollision-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                56,
+                40
+            ]
+        ]
+    },
+    "enemyvoidarmor-sheet0.png": {
+        "frames": [
+            [
+                302,
+                140,
+                131,
+                142
+            ],
+            [
+                267,
+                284,
+                130,
+                139
+            ],
+            [
+                302,
+                1,
+                142,
+                137
+            ],
+            [
+                1,
+                285,
+                130,
+                139
+            ],
+            [
+                1,
+                143,
+                131,
+                140
+            ],
+            [
+                161,
+                1,
+                139,
+                146
+            ],
+            [
+                1,
+                1,
+                158,
+                140
+            ],
+            [
+                134,
+                149,
+                131,
+                138
+            ]
+        ]
+    },
+    "enemyvoidarmorcollision-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                131,
+                142
+            ]
+        ]
+    },
+    "enemyvoidarmorpoison-sheet0.png": {
+        "frames": [
+            [
+                1,
+                1,
+                54,
+                30
+            ],
+            [
+                1,
+                33,
+                54,
+                30
+            ]
+        ]
+    },
+    "enemyvoidarmorpoison-sheet1.png": {
+        "frames": [
+            [
+                1,
+                1,
+                54,
+                30
+            ],
+            [
+                1,
+                33,
+                54,
+                30
+            ]
+        ]
+    },
+    "enemyvoidarmorpoison-sheet2.png": {
+        "frames": [
+            [
+                0,
+                0,
+                54,
+                30
+            ]
+        ]
+    },
+    "enemyvoidarmorpoisoncollision-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                54,
+                30
+            ]
+        ]
+    },
+    "enemyvoidarmy-sheet0.png": {
+        "frames": [
+            [
+                1,
+                87,
+                86,
+                68
+            ],
+            [
+                1,
+                157,
+                86,
+                67
+            ],
+            [
+                89,
+                144,
+                86,
+                68
+            ],
+            [
+                124,
+                74,
+                91,
+                68
+            ],
+            [
+                124,
+                1,
+                102,
+                71
+            ],
+            [
+                1,
+                1,
+                121,
+                84
+            ]
+        ]
+    },
+    "enemyvoidarmy-sheet1.png": {
+        "frames": [
+            [
+                90,
+                1,
+                86,
+                67
+            ],
+            [
+                1,
+                1,
+                87,
+                67
+            ]
+        ]
+    },
+    "enemyvoidarmycollision-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                86,
+                68
+            ]
+        ]
+    },
+    "enemyvoidblood-sheet1.png": {
+        "frames": [
+            [
+                0,
+                0,
+                151,
+                153
+            ]
+        ]
+    },
+    "enemyvoidblood-sheet0.png": {
+        "frames": [
+            [
+                355,
+                321,
+                155,
+                155
+            ],
+            [
+                1,
+                202,
+                167,
+                155
+            ],
+            [
+                355,
+                163,
+                155,
+                156
+            ],
+            [
+                209,
+                163,
+                144,
+                184
+            ],
+            [
+                1,
+                1,
+                206,
+                199
+            ],
+            [
+                209,
+                1,
+                197,
+                160
+            ],
+            [
+                170,
+                349,
+                155,
+                154
+            ]
+        ]
+    },
+    "enemyvoidbloodcollision-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                151,
+                153
+            ]
+        ]
+    },
+    "enemyvoidleader-sheet0.png": {
+        "frames": [
+            [
+                102,
+                118,
+                100,
+                108
+            ],
+            [
+                1,
+                118,
+                99,
+                122
+            ],
+            [
+                1,
+                1,
+                158,
+                115
+            ]
+        ]
+    },
+    "enemyvoidleader-sheet1.png": {
+        "frames": [
+            [
+                1,
+                73,
+                100,
+                104
+            ],
+            [
+                103,
+                73,
+                100,
+                103
+            ],
+            [
+                1,
+                1,
+                155,
+                70
+            ]
+        ]
+    },
+    "enemyvoidleader-sheet2.png": {
+        "frames": [
+            [
+                103,
+                1,
+                100,
+                101
+            ],
+            [
+                1,
+                1,
+                100,
+                103
+            ]
+        ]
+    },
+    "enemyvoidleadercollision-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                100,
+                108
+            ]
+        ]
+    },
+    "enemybloodanimation-sheet0.png": {
+        "frames": [
+            [
+                81,
+                39,
+                23,
+                17
+            ],
+            [
+                81,
+                1,
+                45,
+                36
+            ],
+            [
+                70,
+                62,
+                57,
+                47
+            ],
+            [
+                1,
+                62,
+                67,
+                55
+            ],
+            [
+                1,
+                1,
+                78,
+                59
+            ]
+        ]
+    },
+    "enemybloodanimation-sheet1.png": {
+        "frames": [
+            [
+                0,
+                0,
+                33,
+                42
+            ]
+        ]
+    },
+    "enemybloodpath-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                84,
+                52
+            ]
+        ]
+    },
+    "bloodboss1-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                201,
+                138
+            ]
+        ]
+    },
+    "bloodboss2-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                212,
+                109
+            ]
+        ]
+    },
+    "blood1-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                72,
+                61
+            ]
+        ]
+    },
+    "blood2-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                87,
+                43
+            ]
+        ]
+    },
+    "blood3-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                111,
+                55
+            ]
+        ]
+    },
+    "blood4-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                105,
+                51
+            ]
+        ]
+    },
+    "blood5-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                73,
+                58
+            ]
+        ]
+    },
+    "enemymargin-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                5,
+                174
+            ]
+        ]
+    },
+    "enemyeffectdamage-sheet1.png": {
+        "frames": [
+            [
+                107,
+                1,
+                16,
+                24
+            ],
+            [
+                71,
+                1,
+                34,
+                61
+            ],
+            [
+                1,
+                1,
+                68,
+                99
+            ]
+        ]
+    },
+    "enemyeffectdamage-sheet2.png": {
+        "frames": [
+            [
+                0,
+                0,
+                59,
+                83
+            ]
+        ]
+    },
+    "enemyeffectdamage-sheet0.png": {
+        "frames": [
+            [
+                67,
+                1,
+                56,
+                104
+            ],
+            [
+                1,
+                1,
+                64,
+                107
+            ]
+        ]
+    },
+    "enemypoisonexplosion-sheet0.png": {
+        "frames": [
+            [
+                202,
+                1,
+                41,
+                44
+            ],
+            [
+                102,
+                102,
+                93,
+                104
+            ],
+            [
+                1,
+                103,
+                96,
+                97
+            ],
+            [
+                1,
+                1,
+                99,
+                100
+            ],
+            [
+                102,
+                1,
+                98,
+                99
+            ]
+        ]
+    },
+    "enemypoisonexplosion-sheet1.png": {
+        "frames": [
+            [
+                97,
+                98,
+                76,
+                76
+            ],
+            [
+                1,
+                1,
+                94,
+                98
+            ],
+            [
+                97,
+                1,
+                91,
+                95
+            ]
+        ]
+    },
+    "enemydie-sheet0.png": {
+        "frames": [
+            [
+                57,
+                208,
+                42,
+                47
+            ],
+            [
+                1,
+                154,
+                54,
+                59
+            ],
+            [
+                151,
+                153,
+                64,
+                65
+            ],
+            [
+                1,
+                83,
+                69,
+                69
+            ],
+            [
+                170,
+                78,
+                74,
+                73
+            ],
+            [
+                170,
+                1,
+                78,
+                75
+            ],
+            [
+                86,
+                1,
+                82,
+                78
+            ],
+            [
+                1,
+                1,
+                83,
+                80
+            ],
+            [
+                86,
+                81,
+                77,
+                62
+            ],
+            [
+                72,
+                145,
+                77,
+                61
+            ]
+        ]
+    },
+    "defendergunnerbody-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                50,
+                48
+            ]
+        ]
+    },
+    "defendergunnerhead-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                31,
+                35
+            ]
+        ]
+    },
+    "defendergunnershot-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                52,
+                22
+            ]
+        ]
+    },
+    "defendergunnereffect1-sheet0.png": {
+        "frames": [
+            [
+                1,
+                1,
+                64,
+                68
+            ],
+            [
+                67,
+                1,
+                50,
+                18
+            ],
+            [
+                119,
+                1,
+                1,
+                1
+            ],
+            [
+                119,
+                1,
+                1,
+                1
+            ],
+            [
+                119,
+                1,
+                1,
+                1
+            ],
+            [
+                119,
+                1,
+                1,
+                1
+            ]
+        ]
+    },
+    "defendergunnereffect2-sheet0.png": {
+        "frames": [
+            [
+                20,
+                1,
+                8,
+                13
+            ],
+            [
+                1,
+                1,
+                17,
+                16
+            ]
+        ]
+    },
+    "defendergunnereffect2-sheet2.png": {
+        "frames": [
+            [
+                0,
+                0,
+                16,
+                15
+            ]
+        ]
+    },
+    "defendergunnereffect2-sheet1.png": {
+        "frames": [
+            [
+                0,
+                0,
+                17,
+                15
+            ]
+        ]
+    },
+    "defendergunnerbullet-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                53,
+                46
+            ]
+        ]
+    },
+    "defenderplasmagunbottom-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                93,
+                69
+            ]
+        ]
+    },
+    "defenderplasmagunshot-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                55,
+                32
+            ]
+        ]
+    },
+    "defenderplasmagunhead-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                18,
+                18
+            ]
+        ]
+    },
+    "defenderplasmagunlaser-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                94,
+                43
+            ]
+        ]
+    },
+    "defenderplasmaguneffect-sheet0.png": {
+        "frames": [
+            [
+                1,
+                1,
+                31,
+                39
+            ],
+            [
+                34,
+                1,
+                31,
+                39
+            ],
+            [
+                67,
+                1,
+                31,
+                39
+            ],
+            [
+                1,
+                42,
+                31,
+                39
+            ]
+        ]
+    },
+    "defendercannonfront-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                67,
+                64
+            ]
+        ]
+    },
+    "defendercannonback-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                67,
+                46
+            ]
+        ]
+    },
+    "defendercannonshot-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                81,
+                53
+            ]
+        ]
+    },
+    "defendercannonmissile-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                31,
+                24
+            ]
+        ]
+    },
+    "defendercannoneffect-sheet1.png": {
+        "frames": [
+            [
+                1,
+                40,
+                53,
+                50
+            ],
+            [
+                1,
+                1,
+                85,
+                37
+            ]
+        ]
+    },
+    "defendercannoneffect-sheet0.png": {
+        "frames": [
+            [
+                1,
+                52,
+                80,
+                68
+            ],
+            [
+                1,
+                1,
+                117,
+                49
+            ]
+        ]
+    },
+    "defendercannonmissileeffect1-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                24,
+                21
+            ]
+        ]
+    },
+    "specialattackrocket-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                50,
+                30
+            ]
+        ]
+    },
+    "specialattackrocketeffect-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                30,
+                30
+            ]
+        ]
+    },
+    "specialattackrocketexplosion-sheet1.png": {
+        "frames": [
+            [
+                1,
+                306,
+                108,
+                104
+            ],
+            [
+                244,
+                1,
+                220,
+                192
+            ],
+            [
+                1,
+                1,
+                241,
+                207
+            ],
+            [
+                244,
+                195,
+                184,
+                157
+            ],
+            [
+                1,
+                210,
+                172,
+                94
+            ]
+        ]
+    },
+    "specialattackrocketexplosion-sheet0.png": {
+        "frames": [
+            [
+                259,
+                215,
+                243,
+                208
+            ],
+            [
+                261,
+                1,
+                248,
+                212
+            ],
+            [
+                1,
+                213,
+                256,
+                206
+            ],
+            [
+                1,
+                1,
+                258,
+                210
+            ],
+            [
+                1,
+                421,
+                123,
+                75
+            ],
+            [
+                126,
+                421,
+                94,
+                67
+            ]
+        ]
+    },
+    "specialattacklaser-sheet0.png": {
+        "frames": [
+            [
+                1,
+                1,
+                78,
+                146
+            ],
+            [
+                81,
+                1,
+                78,
+                146
+            ],
+            [
+                161,
+                1,
+                78,
+                146
+            ],
+            [
+                241,
+                1,
+                78,
+                146
+            ],
+            [
+                321,
+                1,
+                78,
+                146
+            ],
+            [
+                401,
+                1,
+                78,
+                146
+            ],
+            [
+                1,
+                149,
+                78,
+                146
+            ],
+            [
+                81,
+                149,
+                78,
+                146
+            ],
+            [
+                161,
+                149,
+                78,
+                146
+            ],
+            [
+                241,
+                149,
+                78,
+                146
+            ],
+            [
+                321,
+                149,
+                78,
+                146
+            ],
+            [
+                401,
+                149,
+                78,
+                146
+            ],
+            [
+                1,
+                297,
+                78,
+                146
+            ],
+            [
+                81,
+                297,
+                78,
+                146
+            ],
+            [
+                161,
+                297,
+                78,
+                146
+            ],
+            [
+                241,
+                297,
+                78,
+                146
+            ]
+        ]
+    },
+    "specialattacklasereffect-sheet0.png": {
+        "frames": [
+            [
+                219,
+                65,
+                35,
+                33
+            ],
+            [
+                76,
+                74,
+                57,
+                57
+            ],
+            [
+                148,
+                65,
+                69,
+                65
+            ],
+            [
+                148,
+                1,
+                73,
+                62
+            ],
+            [
+                76,
+                1,
+                70,
+                71
+            ],
+            [
+                1,
+                1,
+                73,
+                73
+            ],
+            [
+                1,
+                76,
+                69,
+                34
+            ]
+        ]
+    },
+    "specialattacktrap-sheet0.png": {
+        "frames": [
+            [
+                1,
+                163,
+                118,
+                71
+            ],
+            [
+                1,
+                1,
+                149,
+                79
+            ],
+            [
+                1,
+                82,
+                149,
+                79
+            ]
+        ]
+    },
+    "specialattacktrapeffect1-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                191,
+                205
+            ]
+        ]
+    },
+    "specialattacktrapeffect2-sheet0.png": {
+        "frames": [
+            [
+                304,
+                1,
+                175,
+                214
+            ],
+            [
+                1,
+                188,
+                301,
+                184
+            ],
+            [
+                1,
+                1,
+                301,
+                185
+            ],
+            [
+                1,
+                374,
+                245,
+                104
+            ]
+        ]
+    },
+    "specialattacktrapeffect2-sheet1.png": {
+        "frames": [
+            [
+                280,
+                1,
+                222,
+                162
+            ],
+            [
+                1,
+                186,
+                244,
+                175
+            ],
+            [
+                1,
+                1,
+                277,
+                183
+            ]
+        ]
+    },
+    "damageareacollision-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                10,
+                10
+            ]
+        ]
+    },
+    "overlay-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                10,
+                10
+            ]
+        ]
+    },
+    "specialattackhole-sheet1.png": {
+        "frames": [
+            [
+                0,
+                0,
+                191,
+                139
+            ]
+        ]
+    },
+    "specialattackhole-sheet0.png": {
+        "frames": [
+            [
+                261,
+                160,
+                209,
+                150
+            ],
+            [
+                259,
+                1,
+                237,
+                157
+            ],
+            [
+                1,
+                1,
+                256,
+                171
+            ],
+            [
+                1,
+                174,
+                258,
+                167
+            ],
+            [
+                261,
+                312,
+                211,
+                145
+            ],
+            [
+                1,
+                343,
+                211,
+                145
+            ]
+        ]
+    },
+    "explosioneffectenemy-sheet0.png": {
+        "frames": [
+            [
+                127,
+                170,
+                59,
+                70
+            ],
+            [
+                1,
+                90,
+                65,
+                80
+            ],
+            [
+                1,
+                1,
+                72,
+                87
+            ],
+            [
+                75,
+                1,
+                67,
+                93
+            ],
+            [
+                144,
+                1,
+                69,
+                89
+            ],
+            [
+                144,
+                92,
+                65,
+                76
+            ],
+            [
+                188,
+                170,
+                57,
+                70
+            ],
+            [
+                68,
+                96,
+                57,
+                74
+            ],
+            [
+                215,
+                1,
+                38,
+                65
+            ],
+            [
+                215,
+                68,
+                14,
+                9
+            ]
+        ]
+    },
+    "explosioneffectenemyboss-sheet0.png": {
+        "frames": [
+            [
+                141,
+                83,
+                59,
+                70
+            ],
+            [
+                145,
+                1,
+                66,
+                80
+            ],
+            [
+                70,
+                1,
+                73,
+                78
+            ],
+            [
+                1,
+                1,
+                67,
+                90
+            ],
+            [
+                70,
+                81,
+                69,
+                66
+            ],
+            [
+                1,
+                93,
+                65,
+                61
+            ],
+            [
+                202,
+                83,
+                50,
+                32
+            ],
+            [
+                202,
+                117,
+                45,
+                34
+            ],
+            [
+                213,
+                1,
+                38,
+                22
+            ],
+            [
+                213,
+                25,
+                13,
+                9
+            ]
+        ]
+    },
+    "preingameherotext-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                173,
+                20
+            ]
+        ]
+    },
+    "preingameherotextlevelattackspeed-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                115,
+                19
+            ]
+        ]
+    },
+    "preingameherotextlevelbullet-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                114,
+                18
+            ]
+        ]
+    },
+    "preingameherotextleveldamage-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                114,
+                18
+            ]
+        ]
+    },
+    "preingameherotextupgradeweapon-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                119,
+                19
+            ]
+        ]
+    },
+    "preingameherobackground-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                173,
+                227
+            ]
+        ]
+    },
+    "preingameherobackgroundcontent-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                393,
+                226
+            ]
+        ]
+    },
+    "preingameupgradewall-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                491,
+                75
+            ]
+        ]
+    },
+    "preingameupgradecannon-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                491,
+                75
+            ]
+        ]
+    },
+    "preingameupgradeplasmagun-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                491,
+                75
+            ]
+        ]
+    },
+    "preingameupgradespecialattack1-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                491,
+                75
+            ]
+        ]
+    },
+    "preingameupgradespecialattack2-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                491,
+                75
+            ]
+        ]
+    },
+    "preingameupgradespecialattack3-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                491,
+                75
+            ]
+        ]
+    },
+    "preingameupgradetextwall-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                94,
+                19
+            ]
+        ]
+    },
+    "preingameupgradetextcannon-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                113,
+                19
+            ]
+        ]
+    },
+    "preingameupgradetextplasmagun-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                41,
+                19
+            ]
+        ]
+    },
+    "preingameupgradetextspecialattack1-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                105,
+                20
+            ]
+        ]
+    },
+    "preingameupgradetextspecialattack2-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                108,
+                19
+            ]
+        ]
+    },
+    "preingameupgradetextspecialattack3-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                63,
+                20
+            ]
+        ]
+    },
+    "preingameupgradetexthp-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                22,
+                18
+            ]
+        ]
+    },
+    "preingameupgradetextdamage-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                56,
+                19
+            ]
+        ]
+    },
+    "preingameupgradetext-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                173,
+                21
+            ]
+        ]
+    },
+    "preingameupgradetextlevel-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                52,
+                22
+            ]
+        ]
+    },
+    "preingameshopgoldframe1-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                133,
+                218
+            ]
+        ]
+    },
+    "preingameshopgoldframe2-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                133,
+                218
+            ]
+        ]
+    },
+    "preingameshopgoldframe3-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                133,
+                218
+            ]
+        ]
+    },
+    "preingameshopgoldframe4-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                133,
+                218
+            ]
+        ]
+    },
+    "preingameshopgoldtext-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                173,
+                21
+            ]
+        ]
+    },
+    "preingamebackgroundcontent-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                659,
+                350
+            ]
+        ]
+    },
+    "preingamebackgroundselect-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                124,
+                349
+            ]
+        ]
+    },
+    "preingamewavetext-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                77,
+                31
+            ]
+        ]
+    },
+    "screenrotate-sheet0.png": {
+        "frames": [
+            [
+                0,
+                0,
+                1024,
+                1024
+            ]
+        ]
+    }
+}

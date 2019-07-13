@@ -1,0 +1,4 @@
+{    
+    "resources": "",
+    "config":"data.json,bag_uicfg.json,role_uicfg.json,scenelist_auto.json,guide.png,battle.png,common.png,mainui.png,guide.json,battle.json,ui_effect_900.png,common.json,mainui.json,ui_effect_900.json,loading_bg.jpg,login.png,login_uicfg.json,login.json,preloadlist.json"
+}

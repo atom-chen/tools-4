@@ -1,0 +1,14 @@
+{
+  "name": "calcul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "do": "node calculFileSize.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.3"
+  }
+}

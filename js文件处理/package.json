@@ -2,7 +2,8 @@
   "name": "compress",
   "version": "1.0.0",
   "scripts": {
-    "do": "node Js2b64Tojson2Byte.js"
+    "start": "node Js2b64Tojson2Byte.js tj ./test ",
+    "reset":"node Js2b64Tojson2Byte.js r ./test "
   },
   "license": "ISC",
   "dependencies": {

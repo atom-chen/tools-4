@@ -63,10 +63,10 @@ io.sockets.on('connection', function(socket) {
                                 key = j+"_"+i+".jpg";
                             }
                             if(posx + sliceW > fileW){
-                                w = posx + sliceW - fileW;
+                                w = fileW - posx;
                             }
                             if(posy + sliceH > fileH){
-                                h = posy + sliceH - fileH;
+                                h = fileH - posy;
                             }
                             let rectStr = w+"x"+h+"+"+posx+"+"+posy;
                             exec(`convert -crop ${rectStr} image.png map/${key}`,(error)=>{

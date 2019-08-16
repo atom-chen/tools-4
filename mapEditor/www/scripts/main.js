@@ -175,7 +175,7 @@ function drawRect(sx,sy,w,h,ct,color){
     ct.strokeStyle = color|"green";
     ct.lineWidth = 1;
     if(color){
-        let str = color == "red"?"rgba(255,0,0,0.5)":"rgba(255,255,255,0.5)";
+        let str = color 
         ct.fillStyle = str;
         ct.fillRect(sx,sy,w,h);
     }else{
@@ -253,15 +253,16 @@ function onmove(e){
     let y = e.pageY - top;
     let rx = x - (x%gridW);
     let ry = y - (y%gridH);
-    if(drawCfg[rx+"_"+ry] && clear && touchDown){
+    if((drawCfg[rx+"_"+ry] || drawCfg[rx+"_"+ry] == 0) && clear && touchDown){
         delete drawCfg[rx+"_"+ry];
         layerContext.clearRect(rx,ry,gridW,gridH);
         return;
     }
-    if(drawCfg[rx+"_"+ry] && drawCfg[rx+"_"+ry] == curPointValue){
+    if(drawCfg[rx+"_"+ry] == curPointValue){
         return; 
     }
     if(touchDown && drawColor){
+        
         let key = rx+"_"+ry;
         drawCfg[key] = curPointValue;
         layerContext.clearRect(rx,ry,gridW,gridH);
@@ -281,14 +282,19 @@ function tabButton(selectIndex){
         case 2:
             button = buttons[4];
             break;
+        case 3:
+            button = buttons[5];
+            break;
+        case 4:
+            button = buttons[6];
+            break;
     }
     for(let i = 0;i<buttons.length;i++){
         buttons[i].className = "button_up";
     }
     button.className = "button_down";
 }
-//设置阻挡点
-function setPoint0(){
+function commonJudge(index,pointVal,color,clearBoo){
     if(!file){
         alert('请先导出资源图');
         return;
@@ -297,25 +303,28 @@ function setPoint0(){
         alert("请先绘制格子区域");
         return;
     }
-    clear = false;
-    drawColor = "red";
-    curPointValue = parseInt(pointValues[0]);
-    tabButton(0);
+    clear = clearBoo;
+    drawColor = color;
+    console.log(color);
+    curPointValue = parseInt(pointValues[pointVal]);
+    tabButton(index);
+}
+//设置阻挡点
+function setPoint0(){
+    commonJudge(0,0,'rgba(255,0,0,0.5)',false)
 }
 //设置透明点
 function setPoint1(){
-    if(!file){
-        alert('请先导出资源图');
-        return;
-    }
-    if(!drawFirst){
-        alert("请先绘制格子区域");
-        return;
-    }
-    clear = false;
-    drawColor = "white";
-    curPointValue = parseInt(pointValues[2]);
-    tabButton(1);
+    commonJudge(1,2,'rgba(255,255,255,0.5)',false)
+    
+}
+//设置怪物出生点
+function setPoint2(){
+    commonJudge(2,3,'rgba(0,255,0,0.5)',false)
+}
+//设置人物出生点
+function setPoint3(){
+    commonJudge(3,4,'rgba(0,0,255,0.5)',false)
 }
 let clear = false;
 //清除绘制点
@@ -330,7 +339,7 @@ function clearPoint(e){
     }
     drawColor = null;
     clear = true;
-    tabButton(2);
+    tabButton(4);
 }
 let reversboo = false;
 //数据翻转
@@ -373,7 +382,7 @@ function exportData(){
                 let x = i*gridW;
                 let y = j*gridH;
                 let key = x+"_"+y
-                if(!drawCfg[key]){
+                if(!drawCfg[key] && drawCfg[key] != 0){
                     arr[i].push(parseInt(pointValues[1]));
                 }else{
                     arr[i].push(parseInt(drawCfg[key]))
@@ -387,7 +396,7 @@ function exportData(){
                 let x = j*gridW;
                 let y = i*gridH;
                 let key = x+"_"+y
-                if(!drawCfg[key]){
+                if(!drawCfg[key] & drawCfg[key] != 0){
                     arr[i].push(parseInt(pointValues[1]));
                 }else{
                     arr[i].push(parseInt(drawCfg[key]));
@@ -395,6 +404,7 @@ function exportData(){
             }
         }
     }
+    console.log(arr);
     if(reversboo){
        arr = arr.reverse();
     }

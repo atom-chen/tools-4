@@ -27,7 +27,11 @@ glob(filePath + "/**/*.*", function(er, files) {
 	files.forEach(function(v, i) {
 		var types = getExn(v);
         if(Exname.includes(types)) {
-            let outpath = v.replace(types,"pvr");
+			let arr = v.split(".");
+			arr[arr.length - 1] = "pvr";
+
+			let outpath = arr.join(".")
+			console.log(outpath)
             exec(`${BIN}/texturetool -m -f PVR -e PVRTC ${v} -o ${outpath}`);
         } 
 	})

@@ -87,7 +87,7 @@ function createJsonData(path){
     //     dataArr[i] = dataArr[i].replace(/["]/g, "thisisbigyh"); 
     //     dataArr[i] = dataArr[i].replace(/[']/g, "thisissmallyh"); 
     // }
-    console.log("当前处理代码字段还剩余："+(len-curIndex));
+    )console.log("当前处理代码字段还剩余："+(len-curIndex);
     if(curIndex <= len-10){
         let index = (Math.random()*10)>>0;
         let newstr = datastr.substr(curIndex,index);

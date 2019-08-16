@@ -42,9 +42,13 @@ function downLoadWord(word){
                     console.log("[downloadPic]文件   下载失败.");
                     console.log(err);
                 }else{
-                    console.log("文件下载成功");
+                    console.log("文件下载成功---"+word+".mp3");
                     if(wordGather.length){
-                        downLoadWord(wordGather.shift());
+                        let timeout = setTimeout(function() {
+                            clearTimeout(timeout);
+                            downLoadWord(wordGather.shift());
+                        }, 1500);
+                        
                     }
                 }
             });  

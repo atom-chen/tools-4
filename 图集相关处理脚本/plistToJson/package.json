@@ -1,0 +1,16 @@
+{
+  "name": "plist2json",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "do": "node plistToJson.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bagpipe": "^0.3.5",
+    "glob": "^7.1.3",
+    "xml2js": ""
+  }
+}

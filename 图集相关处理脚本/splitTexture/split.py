@@ -25,6 +25,8 @@ def gen_png_from_json(json_filename, png_filename):
             x + width,
             y + height,
         )
+        v["sourceW"] = v["w"]
+        v["sourceH"] = v["h"]
         sizelist = [ v["sourceW"], v["sourceH"] ]
        
         rect_on_big = big_image.crop(box)

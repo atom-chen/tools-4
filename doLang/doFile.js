@@ -32,7 +32,7 @@ let maxTransNum = 3000;
 var re = /[\u4E00-\u9FA5]+/ig;
 
 let re2 = /\"/g; //去掉引号
-var Exname = [ 'html','ts',"json",'exml'];
+var Exname = [ 'html','ts',"json",'exml',"js"];
 // var Exname = [ 'exml'];
 
 // config the translator

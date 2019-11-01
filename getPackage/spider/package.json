@@ -1,0 +1,20 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "spider",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "bao": "node spider_youxi123admin.js",
+    "leyou": "node leyou.js",
+    "pm2": "pm2 start processes.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yefengbar.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mime-types": "^2.1.21",
+    "node-xlsx": "^0.12.1"
+  }
+}

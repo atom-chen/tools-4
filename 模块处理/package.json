@@ -1,0 +1,19 @@
+{
+  "name": "getModule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "limit": "node -max_old_space_size=4096",
+    "do": "node getModule.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clear":"node getModule.js c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.3",
+    "console-grid": ""
+  }
+}
